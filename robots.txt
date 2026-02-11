@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kangbukgu.8222quick.com/sitemap.xml
+
+
+
